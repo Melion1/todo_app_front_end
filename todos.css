@@ -4,7 +4,10 @@ html{
       color: Purple;
       padding: 5px;
       margin:10px;
-      background:linear-gradient( rgba(255,255,255,0.6),rgba(255,255,255,0.6)), url(https://chicagohistoricschools.files.wordpress.com/2013/04/dsc_8795-001.jpg)
+      background:linear-gradient( rgba(255,255,255,0.6),rgba(255,255,255,0.6)), 
+      url(https://chicagohistoricschools.files.wordpress.com/2013/04/dsc_8795-001.jpg);
+      background-size:cover;
+    
 }
 h1{
     border: 3px solid yellow;
